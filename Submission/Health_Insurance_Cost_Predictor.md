@@ -4,8 +4,8 @@
 
 - **Full Name:** Annu Kumar
 - **GitHub Username:** annukumar123
-- **Team Name:** Cyber Ninjas
-- **College/University:** JB Institute of Engineering and Technology
+- **Team Name:** Syntax Saviors
+- **College/University:** Malla Reddy University Hyderabad
 
 ---
 
